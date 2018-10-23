@@ -1,5 +1,5 @@
 {
-    "batchLienSearch" {
+    "batchLienSearch": {
       "searchCriteria": {
         "searchByRecordGroup":"",
         "searchByRecordType":"",
